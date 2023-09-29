@@ -1,4 +1,5 @@
 cabal.sandbox.config
+dist-newstyle
 dist
 log
 node_modules
